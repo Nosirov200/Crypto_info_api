@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(4,2,0) !important;
+
+}
+.green{
+    color:#008000;
+}
+.red{
+    color:#ff0000;
+}
+.cryptoImage{
+    width:40px;
+    margin-right: 10px;
+}
